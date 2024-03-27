@@ -13,5 +13,5 @@
 
 - 📫 How to reach me **martin.ondra1@gmail.com**
 
-- 📄 Reach me via LinkedIn ([https://www.linkedin.com/in/rashmi-gunawardana-7106761ab/](https://www.linkedin.com/in/martinondra1))  
+- 📄 Reach me via LinkedIn (https://www.linkedin.com/in/martinondra1)
 </p>
