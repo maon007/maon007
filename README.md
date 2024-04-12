@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-  🌱 I’m currently working as a **Machine Learning Specialist** 
+  🌱 I’m currently working as a **Data Scientist / ML engineer** 
 
 - 📫 How to reach me **martin.ondra1@gmail.com**
 
